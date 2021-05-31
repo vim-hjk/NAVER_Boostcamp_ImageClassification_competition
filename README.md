@@ -11,10 +11,10 @@
 
 <br></br>
 ## 🎖 최종 결과 <a name = 'Result'></a>
-- private LB (33등)
+- private LB (33/250)
     - F1 : `0.7526` 
     - Acc : `80.8095` 
-- Public LB (13등)
+- Public LB (13/250)
     - F1 : `0.7754`
     - Acc : `81.3968` 
 
